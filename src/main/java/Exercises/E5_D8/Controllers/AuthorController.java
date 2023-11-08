@@ -1,4 +1,4 @@
-package Exercises.E5_D7.Controllers;
+package Exercises.E5_D8.Controllers;
 
 /* -------------------------- USERS CRUD ------------------------------------
 
@@ -10,10 +10,10 @@ package Exercises.E5_D7.Controllers;
 
 */
 
-import Exercises.E5_D7.Entities.Author;
-import Exercises.E5_D7.Entities.Blog;
-import Exercises.E5_D7.Services.AuthorService;
-import Exercises.E5_D7.Services.BlogService;
+import Exercises.E5_D8.Entities.Author;
+import Exercises.E5_D8.Entities.Blog;
+import Exercises.E5_D8.Services.AuthorService;
+import Exercises.E5_D8.Services.BlogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

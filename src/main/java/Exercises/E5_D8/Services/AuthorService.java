@@ -1,7 +1,7 @@
-package Exercises.E5_D7.Services;
+package Exercises.E5_D8.Services;
 
-import Exercises.E5_D7.Entities.Author;
-import Exercises.E5_D7.Entities.Blog;
+import Exercises.E5_D8.Entities.Author;
+import Exercises.E5_D8.Entities.Blog;
 import org.springframework.stereotype.Service;
 
 import java.io.FileNotFoundException;
